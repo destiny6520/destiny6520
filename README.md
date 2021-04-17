@@ -21,7 +21,7 @@ Hope you all enjoy the work.
 ## Social Profiles ♥️
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/destinyztd)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=curious-blue)](https://telegram.me/destinyztd)
 [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=dodger-blue)](https://twitter.com/tharunlucky46)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=cerise-red)](https://www.instagram.com/mr._tharun_/)
 
