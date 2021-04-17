@@ -21,9 +21,9 @@ Hope you all enjoy the work.
 ## Social Profiles ♥️
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=curious-blue)](https://telegram.me/destinyztd)
-[![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=dodger-blue)](https://twitter.com/tharunlucky46)
-[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=cerise-red)](https://www.instagram.com/mr._tharun_/)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://telegram.me/destinyztd)
+[![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=#1DA1F2)](https://twitter.com/tharunlucky46)
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&?logoWidth=40&logo=instagram&logoColor=#E4405F)](https://www.instagram.com/mr._tharun_/)
 
 <!--
 **destiny6520/destiny6520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
