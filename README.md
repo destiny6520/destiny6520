@@ -22,7 +22,7 @@ Hope you all enjoy the work.
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/destinyztd)
-https://img.shields.io/twitter/follow/tharunlucky46?style=social
+[![Instagram](https://img.shields.io/twitter/follow/tharunlucky46?style=social)
 
 <!--
 **destiny6520/destiny6520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
