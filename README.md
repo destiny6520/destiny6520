@@ -13,7 +13,7 @@ Hope you all enjoy the work.
 
 ## GitHub Stats 🌟
 
-![destinyz github stats](https://github-readme-stats.vercel.app/api?username=destiny6520&theme=vue&count_private=true&show_icons=true&cache_seconds=100)
+![destinyz github stats](https://github-readme-stats.vercel.app/api?username=destiny6520&theme=vue&count_private=true&show_icons=true&cache_seconds=9900)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiny6520&layout=compact)](https://github.com/destiny6520/github-readme-stats)
 ![counter](https://komarev.com/ghpvc/?username=destiny6520&style=flat-square)
 
