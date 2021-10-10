@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun Pogula</h1>
-<h3 align="center">A Mechanical Student Who loves Technology</h3>
+<h3 align="center">A Mechanical ⚙️ Student Who loves Technology 🖥️</h3>
 
 
 - 🌱 I’m currently learning **Java and Python as a Hobby**
