@@ -1,5 +1,12 @@
-### Hi there 👋
-Yha Thullu Milta Hai , Lene Ke Liye Niche Diye Gaye Telegram Ke Nisaan Per Click Kare.
+<h1 align="center">Hi 👋, I'm Tharun Pogula</h1>
+<h3 align="center">A Mechanical Student Who loves Technology</h3>
+
+
+- 🌱 I’m currently learning **Java and Python as a Hobby**
+
+- 💬 Ask me about **Google Drive stuff**
+
+- 📫 How to reach me **tharunpogula@gmail.com** , **https://t.me/destinyztorrentcloud@gtb.org.in**
 
 
 I am not a dev, so don't come complaining this is not working , that is not working. I do most of modification for myself. And most of my modification are taken form the github public repo, most of the time i just merge this and that.
