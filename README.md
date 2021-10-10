@@ -9,9 +9,9 @@
 - 📫 How to reach me **tharunpogula@gmail.com**
 
 
-I am not a dev, so don't come complaining this is not working , that is not working. I do most of modification for myself. And most of my modification are taken form the github public repo, most of the time i just merge this and that.
+- I am not a dev, so don't come complaining this is not working , that is not working. I do most of modification for myself. And most of my modification are taken form the github public repo, most of the time i just merge this and that.
 
-Hope you all enjoy the work.
+- Hope you all enjoy the work.
 
 
 
