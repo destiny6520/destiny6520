@@ -19,13 +19,12 @@ Hope you all enjoy the work.
 
 
 ## GitHub Stats 🌟
-
-![destinyz github stats](https://github-readme-stats.vercel.app/api?username=destiny6520&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiny6520&layout=compact)](https://github.com/destiny6520/github-readme-stats)
 ![counter](https://komarev.com/ghpvc/?username=destiny6520&style=flat-square)
+![Tharun's Github Stats](https://github-readme-stats.vercel.app/api?username=destiny6520&theme=vue&count_private=true&show_icons=true&cache_seconds=2400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiny6520&layout=compact)](https://github.com/destiny6520/github-readme-stats)
 
 
-## Social Profiles ♥️
+## Social Profiles 🤝 ♥️
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://telegram.me/destinyztd)
