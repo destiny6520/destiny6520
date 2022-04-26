@@ -28,7 +28,7 @@
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://telegram.me/destinyztd)
-[![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=#1DA1F2)](https://twitter.com/tharunlucky46)
+[![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=#1DA1F2)](https://twitter.com/iamtharunpogula)
 
 
 <!--
